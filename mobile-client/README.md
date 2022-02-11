@@ -1,1 +1,1 @@
-# social-mobile-client
+# mobile-client
