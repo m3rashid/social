@@ -1,0 +1,10 @@
+.env
+node_modules
+build
+
+.DS_Store
+.vscode
+todo.txt
+keys
+generateKeyPair.ts
+generateKeyPair.js
