@@ -1,12 +1,23 @@
-# social
+<div align="center">
 
-Social media application — web (React), mobile (React Native), and a Node/Express server with real-time features.
+# 👥 social
 
-## Tech
+**Social media app — web, mobile, and server.**
 
-React · React Native · Node.js · Express · TypeScript · MongoDB
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev)
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)](https://reactnative.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)](https://nodejs.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## Quick start
+</div>
+
+---
+
+## 🛠 Tech
+
+`React` · `React Native` · `Node.js` · `Express` · `TypeScript` · `MongoDB`
+
+## 📦 Quick start
 
 ```bash
 git clone https://github.com/m3rashid/social.git
@@ -15,6 +26,6 @@ cd ../web && yarn install && yarn dev
 cd ../mobile && yarn install && yarn dev
 ```
 
-## License
+## 📄 License
 
 MIT
