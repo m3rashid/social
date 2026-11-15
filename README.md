@@ -1,17 +1,18 @@
 # social
 
-Social media application (web + mobile + server).
+Social media application — web (React), mobile (React Native), and a Node/Express server with real-time features.
 
 ## Tech
 
-TypeScript · Node.js · React Native
+React · React Native · Node.js · Express · TypeScript · MongoDB
 
 ## Quick start
 
 ```bash
-cd server && yarn install && yarn dev
-cd web && yarn install && yarn dev
-cd mobile && yarn install && yarn dev
+git clone https://github.com/m3rashid/social.git
+cd social/server && yarn install && yarn dev
+cd ../web && yarn install && yarn dev
+cd ../mobile && yarn install && yarn dev
 ```
 
 ## License
